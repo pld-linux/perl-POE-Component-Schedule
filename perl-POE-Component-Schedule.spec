@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	POE
 %define	pnam	Component-Schedule
 Summary:	POE::Component::Schedule - Schedule POE events using DateTime::Set iterators
