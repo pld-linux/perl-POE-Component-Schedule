@@ -8,7 +8,7 @@ Summary:	POE::Component::Schedule - Schedule POE events using DateTime::Set iter
 Summary(pl.UTF-8):	POE::Component::Schedule - Planuje zdarzenia POE przy użyciu iteratorów DateTime::Set
 Name:		perl-POE-Component-Schedule
 Version:	0.03
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
